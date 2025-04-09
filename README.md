@@ -124,7 +124,7 @@ Execute the program using runserver command.
 </body>
 </html>
 
-
+```
 
 
 ## OUTPUT
